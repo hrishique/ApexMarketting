@@ -119,10 +119,10 @@ const Home = () => {
                   </div>
                   <div className="grid grid-cols-2 gap-4">
                     <div className="h-32 bg-zinc-800/30 rounded-xl p-4 border border-white/5">
-                      <div className="text-[10px] uppercase tracking-wider text-zinc-500 font-bold mb-2">Monthly Revenue</div>
-                      <div className="text-2xl font-bold text-white">₹12.4M</div>
-                      <div className="text-xs text-green-500 mt-1 flex items-center gap-1">
-                        <ArrowRight size={12} className="-rotate-45" /> +24% vs last month
+                      <div className="text-[10px] uppercase tracking-wider text-zinc-500 font-bold mb-2">Total Ad Spend</div>
+                      <div className="text-2xl font-bold text-white">₹83 Cr+</div>
+                      <div className="text-xs text-brand-blue mt-1 flex items-center gap-1">
+                        Till date across all accounts
                       </div>
                     </div>
                     <div className="h-32 bg-zinc-800/30 rounded-xl p-4 border border-white/5">
